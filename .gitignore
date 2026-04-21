@@ -1,6 +1,17 @@
+# VSCode
 .vscode/
-.vscode-sever/
+.vscode-server/
+
+# Python
 __pycache__/
 *.pyc
-*.save
 
+# Virtual environment
+venv/
+
+# Outputs
+results/
+*.csv
+
+# Misc
+*.save
