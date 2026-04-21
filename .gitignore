@@ -17,3 +17,4 @@ results/
 *.save
 
 data/
+!data/sample1.fasta
