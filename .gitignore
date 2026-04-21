@@ -18,3 +18,17 @@ results/
 
 data/
 !data/sample1.fasta
+
+## Quick Start
+
+```bash
+pip install biopython
+
+python scripts/fasta_stats.py data/sample1.fasta
+
+## Example Output
+
+file,id,length,gc_percent
+sample1.fasta,seq1,120,52.3
+data/*
+!data/sample1.fasta
