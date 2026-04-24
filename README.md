@@ -10,8 +10,13 @@
 - ORF discovery
 - Protein translation preview
 
+## Dependencies
+- Biopython
+  
 ## Usage
+```bash
 python3 fasta_stats.py
+```
 
 Input FASTA files in data/
 
