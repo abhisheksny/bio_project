@@ -1,19 +1,17 @@
-# bio_project
-# FASTA Stats Tool
+# FASTA Toolkit
 
-CLI tool to compute basic statistics from FASTA files.
+Python toolkit for:
+- GC/AT composition
+- ORF discovery
+- Protein translation preview
 
-## Features
-- Sequence length
-- GC content
-- Multi-file support
-- CSV output
+Run:
+python3 fasta_stats.py
 
-## Installation
+Input:
+FASTA files in data/
 
-```bash
-git clone https://github.com/abhisheksny/bio_project.git
-cd bio_project
-python3 -m venv venv
-source venv/bin/activate
-pip install biopython
+Example genes tested:
+ACTB
+BRCA1
+TP53
