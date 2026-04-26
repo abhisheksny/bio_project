@@ -4,7 +4,7 @@
 ![Version](https://img.shields.io/badge/version-v1.1-green)
 ![Bioinformatics](https://img.shields.io/badge/domain-bioinformatics-orange)
 
-Bioinformatics toolkit for GC analysis, ORF detection and protein translation.
+Python CLI toolkit for FASTA statistics, ORF detection and sequence analysis.
 
 ## Features
 - GC/AT composition
@@ -58,7 +58,7 @@ bio_project/
 Current stable release: **v1.1**
 
 ## Author
-Developed by **Abhishek K**
+Developed by **Abhishek K.**
 
 ## Contact
 Use GitHub Issues for suggestions or bugs.
